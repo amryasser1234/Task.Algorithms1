@@ -1,0 +1,8 @@
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Hamada Salim G-Trd\Music\al\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
